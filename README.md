@@ -5,5 +5,5 @@ Dynamic Textfield using Scoped_model
 ## Screenshot
 
  <p align="center">
-  <img src="https://github.com/brinesoftwares/flutter_rating_ui/blob/master/UI_Rating.gif?raw=true" width="1000" >
+  <img src="https://github.com/brinesoftwares/flutter-dynamic-form/blob/master/Screenshot.jpg?raw=true" width="1000" >
 </p>
